@@ -1,0 +1,16 @@
+Package: bcellViper
+Type: Package
+Title: Human B-cell transcriptional interactome and normal human B-cell
+        expression data
+Version: 0.99.2
+Date: 2013-04-15
+Author: Mariano Javier Alvarez
+Maintainer: Mariano Javier Alvarez <malvarez@c2b2.columbia.edu>
+Description: This package provides a human B-cell context-specific
+        transcriptional regulatory network and a human normal B-cells
+        dataset for the examples in package viper.
+License: GPL (>=2)
+Depends: R(>= 2.14.0), Biobase, methods
+LazyLoad: yes
+biocViews: ExperimentData, Cancer
+Collate: ''
