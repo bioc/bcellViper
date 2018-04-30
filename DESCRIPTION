@@ -2,7 +2,7 @@ Package: bcellViper
 Type: Package
 Title: Human B-cell transcriptional interactome and normal human B-cell
         expression data
-Version: 1.15.0
+Version: 1.16.0
 Date: 2013-04-15
 Author: Mariano Javier Alvarez
 Maintainer: Mariano Javier Alvarez <malvarez@c2b2.columbia.edu>
